@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Perfect Pitch</string>
+    <string name="start">Start</string>
+    <string name="about">About</string>
+    <string name="title_image">title_image</string>
+    <string name="teaching_photo">teaching_photo</string>
+    <string name="teaching_bio">Dear users! My name is Benjamin and I’m a Yamaha music instructor at Coquitlam’s Tom Lee Music Academy. If you’re using this app you must be either one of my students, their parents or just an individual curious about my music game app! The idea behind this app was actually for my students. I wanted to create an educational game that they could use at home to practice and hone their musical talents. This game is for ear training and developing perfect pitch, and it is based on the Yamaha music teaching pedagogy. I hope you enjoy!</string>
+    <string name="about_benjamin">About Benjamin</string>
+    <string name="instructions">Instructions: Listen to the chord that is played and choose from the three choices of chords at the bottom of the screen.</string>
+    <string name="jmc1">JMC1</string>
+    <string name="jmc2">JMC2</string>
+    <string name="what_level_are_you">What Level Are You?</string>
+    <string name="apple_image">apple_image</string>
+    <string name="chord_choice_2">chord choice 2</string>
+    <string name="chord_choice_3">chord choice 3</string>
+    <string name="chord_choice_1">chord choice 1</string>
+    <string name="hear_it_again">Hear it Again?</string>
+    <string name="what_is_this_chord">What is this chord?</string>
+    <string name="Answer1">Answer1</string>
+    <string name="Answer3">Answer3</string>
+    <string name="Answer2">Answer2</string>
+</resources>
